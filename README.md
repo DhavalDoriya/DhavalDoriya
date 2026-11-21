@@ -1,6 +1,4 @@
-# Dhaval Doriya
-
-### Backend-focused Full-Stack Software Engineer
+### Backend-focused AI Full-Stack Software Engineer
 
 I build scalable web applications, reliable APIs, backend services, and practical AI-powered solutions.
 
